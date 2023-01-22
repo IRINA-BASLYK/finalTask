@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\bin\Debug\net6.0\finalTask.exe
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\bin\Debug\net6.0\finalTask.deps.json
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\bin\Debug\net6.0\finalTask.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\bin\Debug\net6.0\finalTask.dll
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\bin\Debug\net6.0\finalTask.pdb
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.dll
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\refint\finalTask.dll
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.pdb
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\finalTask.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\finalTask\finalTask\obj\Debug\net6.0\ref\finalTask.dll
