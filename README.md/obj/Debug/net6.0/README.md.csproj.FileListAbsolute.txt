@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\finalTask\README.md\bin\Debug\net6.0\README.md.exe
+C:\Users\RUSLAN\Desktop\finalTask\README.md\bin\Debug\net6.0\README.md.deps.json
+C:\Users\RUSLAN\Desktop\finalTask\README.md\bin\Debug\net6.0\README.md.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\finalTask\README.md\bin\Debug\net6.0\README.md.dll
+C:\Users\RUSLAN\Desktop\finalTask\README.md\bin\Debug\net6.0\README.md.pdb
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.dll
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\refint\README.md.dll
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.pdb
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\README.md.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\finalTask\README.md\obj\Debug\net6.0\ref\README.md.dll
